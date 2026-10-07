@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/game-boy-advance/bobobo-ougi-87-5)**.
+
 Traducción al **español de España** de *Bobobo-bo Bo-bobo: Ougi 87.5 Bakuretsu Hanage Shinken*
 (ボボボーボ・ボーボボ 奥義87.5 爆烈鼻毛真拳, Game Boy Advance, Hudson Soft, 2002), el RPG del Puño del Pelo
 Nasal que solo salió en Japón.
